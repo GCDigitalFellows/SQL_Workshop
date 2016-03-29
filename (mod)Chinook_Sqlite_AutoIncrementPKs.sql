@@ -6,6 +6,8 @@
    DB Server: Sqlite
    Author: Luis Rocha
    License: http://www.codeplex.com/ChinookDatabase/license
+   
+   Modified by Ian Phillips for Digital Fellows SQL workshop
 ********************************************************************************/
 
 /*******************************************************************************
